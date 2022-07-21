@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###I recently took an interest in programming. 
+### I recently took an interest in programming. 
 My goal is to become a software developer
 
 - 🌱 I’m currently learning Python
