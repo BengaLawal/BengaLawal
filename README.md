@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 ### I recently took an interest in programming. 
-My goal is to become a software developer
 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: gbengalawal99@gmail.com
 
 ### Languages
 
