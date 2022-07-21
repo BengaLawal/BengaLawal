@@ -6,6 +6,9 @@ My goal is to become a software developer
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: gbengalawal99@gmail.com
 
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 <!--
 **BengaLawal/BengaLawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
